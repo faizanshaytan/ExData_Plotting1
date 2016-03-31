@@ -1,3 +1,9 @@
+I have uploaded all of my r scripts (named plot-[1-4].R) and a compilation script (allplots.R) to this repo.  I have also uploaded all of my plots into this repo's main directory.
+
+Cheers,
+@faizanshaytan
+
+---------------
 ## Introduction
 
 This assignment uses data from
